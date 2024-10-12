@@ -1,0 +1,2 @@
+1. Explore the timm library
+2. use timm lib to import patchembed, attention, mlp
